@@ -10,12 +10,12 @@ int main(){
 
     //dados da primeira carta
     printf("Insira os dados da primeira carta\n");
-    printf("Digite a letra do estado? \n");
-    scanf("%c", &estado1);
+    printf("Digite a letra do estado: \n");
+    scanf(" %c", &estado1);
     printf("Digite o código da carta: \n");
-    scanf("%s", &codigo1);
+    scanf("%s", codigo1);
     printf("Digite o nome da cidade: \n");
-    scanf("%s", &cidade1);
+    scanf("%s", cidade1);
     printf("Digite o número da população: \n");
     scanf("%d", &populacao1);
     printf("Digite a área (em km²): \n");
