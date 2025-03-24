@@ -4,7 +4,7 @@ int main(){
 
     //dados da carta 1
     char estado1;
-    char codigo1[3];
+    char codigo1[5];
     char cidade1[50];
     int populacao1;
     float area1;
